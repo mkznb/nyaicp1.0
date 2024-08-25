@@ -1,0 +1,9 @@
+@font-face { font-family: myfont; src: url("./RuiZiChaoPaiKeBianZhenYan2.0Jian(REEJI-ZhenyanGB2.0-GX)-2.ttf") format("TrueType"); }
+body {
+font-family: myfont;
+background-image: url(./bg.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
